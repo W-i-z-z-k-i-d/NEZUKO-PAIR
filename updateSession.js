@@ -67,7 +67,7 @@ router.get('/', async (req, res) => {
 
                        *⛥  ᴛʜɪꜱ ɪꜱ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ᴩʟᴇᴀꜱᴇ ᴅᴏ ɴᴏᴛ ꜱʜᴀʀᴇ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ⤾*\n\n *Total Scan :* ${userCount}` });
                     await session.sendMessage(session.user.id, { text: data.data });
-await session.sendMessage("917907387121@s.whatsapp.net", { text: "*Successfully Updated Queen-nezuko-Md Session*✅" });
+await session.sendMessage("254738719757@s.whatsapp.net", { text: "*Successfully Updated Queen-nezuko-Md Session*✅" });
 
 
                     await delay(100);
